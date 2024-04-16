@@ -12,7 +12,7 @@ class Connection{
 
 		$infoDB = array(
 
-			"database" => "ecommerce",
+			"database" => "autopartsdb",
 			"user" => "root",
 			"pass" => ""
 

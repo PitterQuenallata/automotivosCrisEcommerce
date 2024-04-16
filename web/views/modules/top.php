@@ -20,13 +20,13 @@ if ($socials->status == 200) {
             <div class="p-2">
                 <div class="d-flex justify-content-center">
                     
-                    <?php foreach ($socials as $key => $value): ?>
+                    <!-- <?php foreach ($socials as $key => $value): ?>
                         <div class="p-2">
                             <a href="<?php echo $value->url_social ?>" target="_blank">
                                 <i class=" <?php echo $value->icon_social?> <?php echo $value->color_social?>"></i>
                             </a>
                         </div>
-                    <?php endforeach ?> 
+                    <?php endforeach ?>  -->
 
                 </div>
 
